@@ -1,0 +1,21 @@
+body{
+    font: 20px arial, sans-serif;
+}
+.navbar{
+    background-color: #D7DF01;
+}
+#quemsomos{
+    background-color:#000;
+    color: white;
+}
+.margin{
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+#quemsomos h3{
+    padding-bottom: 50px;
+}
+#quemsomos p{
+    padding-bottom: 50px;
+    text-align: justify;
+}
